@@ -1,3 +1,0 @@
-# digital-clock
-
-### Website Preview
